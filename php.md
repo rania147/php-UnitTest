@@ -45,7 +45,7 @@ These are the tasks we require to do our first unit test.
 
 ![](media/image2.png)
 
-##task 2: install the plugins that we need
+## task 2: install the plugins that we need
 
 We select git push then press download now and install after restart
 
@@ -71,7 +71,7 @@ problem![](media/image7.png)
 
 #Unit test using bitbucket:
 
-## What is bitbucket?
+# What is bitbucket?
 
 Bitbucket is a Git-based source code repository hosting service owned by
 Atlassian. Bitbucket offers both commercial plans and free accounts with
@@ -109,7 +109,7 @@ we need to run tests on these codes using phpunit test.
 
 Try to execute a PHP unit test using Vs code of a calculator
 
-## Task 1: install needs
+## Step 1: install needs
 
 ### Install Vs code
 
