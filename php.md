@@ -1,4 +1,4 @@
-## Test
+# Test
 
 Automation which is demanding across the globe today saves human time
 and energy to a great extent. PHP tools are used to test unit as well as
@@ -63,7 +63,7 @@ Then, we press the buttons save, and finally build now
 
 ![](media/image6.png)
 
-##task 4: test if it works
+## task 4: test if it works
 
 This figure \"console output\" shows all the details about the test; if
 the test doesn\'t work, we can get all the details right here to fix the
